@@ -1,23 +1,3 @@
--- use PortfolioProject;
-
--- select * from coviddeaths;
--- select * from covidvaccinations;
-
--- alter table covidvaccinations
--- modify column new_vaccinations int;
-
--- UPDATE covidvaccinations
--- SET new_vaccinations = NULL
--- WHERE new_vaccinations = '';
-
--- SET SQL_SAFE_UPDATES = 0;
--- UPDATE coviddeaths
--- SET date = STR_TO_DATE(date, '%d/%m/%Y');
-
-
-
-
-
 
 -- select data that we are going to use
 
